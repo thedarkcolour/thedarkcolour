@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+I'm thedarkcolour!
+- 🔭 I’m currently working on Minecraft mods with Forge
+- 🌱 I’m currently learning computer science
+- 😄 Pronouns: He/Him
 <!--
 **thedarkcolour/thedarkcolour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
