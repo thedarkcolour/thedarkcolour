@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![thedarkcolour's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedarkcolour&theme=midnight-purple&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedarkcolour&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
