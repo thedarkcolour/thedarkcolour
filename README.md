@@ -1,8 +1,9 @@
-### Hi there 👋
+He/Him, Minecraft modder w/ Java & Kotlin
+<!--### Hi there 👋
 I'm thedarkcolour!
 - 🔭 I’m currently working on Minecraft mods with Forge
 - 🌱 I’m currently learning computer science
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: 
 <!--
 **thedarkcolour/thedarkcolour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +17,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [![thedarkcolour's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedarkcolour&theme=midnight-purple&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedarkcolour&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+-->
