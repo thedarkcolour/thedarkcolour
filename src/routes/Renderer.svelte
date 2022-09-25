@@ -1,5 +1,5 @@
 <script lang='ts'>
-	import * as mat4 from 'gl-matrix/mat4';
+	import * as mat4 from 'gl-matrix/cjs/mat4';
 	import { onMount } from 'svelte';
 
 	const vertexShader = `
@@ -22,7 +22,7 @@
 
 		void main() {
 		  gl_Position = projectionMatrix * modelViewMatrix * vec4(pos.x, pos.y, pos.z, 2.0);
-		  v_color = vec4(hsl(vec3(cursorPos.x, 0.7, 1.0)), 1.0);
+		  v_color = vec4(hsl(vec3(cursorPos.x *  2.0, 0.7, 1.0)), 1.0);
 		}
 		`
 	const fragmentShader = `
@@ -55,7 +55,7 @@
 	export function main() {
 		// Initialize WebGL
 		const canvas = document.getElementById('main-canvas') as HTMLCanvasElement;
-		gl = canvas.getContext('webgl2', { antialias: false }) as WebGL2RenderingContext;
+		gl = canvas.getContext('webgl2', { antialias: true }) as WebGL2RenderingContext;
 
 		if (gl === null) {
 			alert("Unable to initialize WebGL");
