@@ -3,7 +3,7 @@ const manifest = {
 	assets: new Set(["background.jpg","background.webp","favicon.png"]),
 	mimeTypes: {".jpg":"image/jpeg",".webp":"image/webp",".png":"image/png"},
 	_: {
-		entry: {"file":"_app/immutable/start-46a94754.js","imports":["_app/immutable/start-46a94754.js","_app/immutable/chunks/index-03969575.js"],"stylesheets":[]},
+		entry: {"file":"_app/immutable/start-513f0cda.js","imports":["_app/immutable/start-513f0cda.js","_app/immutable/chunks/index-03969575.js"],"stylesheets":[]},
 		nodes: [
 			() => import('./chunks/0-64b5d4b2.js'),
 			() => import('./chunks/1-bc956c3b.js'),
